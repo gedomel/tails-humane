@@ -1,0 +1,72 @@
+.App {
+  min-height: 100vh;
+  background: #0c3483;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  min-height: 10vh;
+  color: white;
+}
+.nav-links {
+}
+
+.post_put {
+  width: 100%;
+  border: none;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.SubmitButton {
+  background: rgb(156, 177, 208);
+  border: none;
+  margin-top: 10px;
+  padding: 10px 20px;
+  color: white;
+}
+.animal_display {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.form {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.HomePage {
+  justify-content: center;
+}
+.update {
+  align-items: center;
+}
+h1 {
+  align-items: center;
+}
+p {
+  align-items: center;
+  color: #0c3483;
+}
+.form_fields {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  min-height: 10vh;
+}
+li {
+  list-style-type: none;
+}
+
+.logo {
+  height: 100px;
+}
+button {
+  margin-bottom: 10px;
+}

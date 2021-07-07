@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render Cat HomePage Correctly 1`] = `
+<div
+  className="HomePage"
+>
+  <div
+    className="animal_display"
+  />
+</div>
+`;
+
+exports[`Render Dog HomePage Correctly 1`] = `
+<div
+  className="HomePage"
+>
+  <div
+    className="animal_display"
+  />
+</div>
+`;

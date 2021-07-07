@@ -1,0 +1,151 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render A Cat Animal Card Correctly 1`] = `
+<div
+  className="animal_card"
+>
+  <h1
+    className="animal_name"
+  >
+    Fuzzy
+  </h1>
+  <h4>
+    Domestic Longhair/Mix
+  </h4>
+  <h4>
+    Tails ID:
+    46403201
+  </h4>
+  <img
+    alt=""
+    className="image"
+    src="https://g.petango.com/photos/651/5c64ab1d-c4f0-4479-9e21-27c3f2438e69.jpg"
+  />
+  <h3>
+    Information
+  </h3>
+  <ul
+    id="navigation"
+  >
+    <li>
+      Availability:
+      Available
+    </li>
+    <li>
+      Age:
+      15.2
+      (years)
+    </li>
+    <li>
+      Gender:
+      Male
+    </li>
+    <li>
+      Size:
+      Medium
+    </li>
+    <li>
+      Color:
+      Black
+    </li>
+    <li>
+      Housetrained:
+      Yes
+    </li>
+  </ul>
+  <h3>
+    Behavior Restrictions
+  </h3>
+  <ul
+    id="navigation"
+  >
+    <li>
+      No Dogs:
+      Unknown
+    </li>
+    <li>
+      No Cats:
+      No cats
+    </li>
+    <li>
+      No Kids:
+      Unknown
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`Render A Dog Animal Card Correctly 1`] = `
+<div
+  className="animal_card"
+>
+  <h1
+    className="animal_name"
+  >
+    Summmer
+  </h1>
+  <h4>
+    Mixed Breed
+  </h4>
+  <h4>
+    Tails ID:
+    25283313
+  </h4>
+  <img
+    alt=""
+    className="image"
+    src="https://g.petango.com/photos/651/d8dc34ea-19ee-47a8-9394-d8d501c993c5.jpg"
+  />
+  <h3>
+    Information
+  </h3>
+  <ul
+    id="navigation"
+  >
+    <li>
+      Availability:
+      Available
+    </li>
+    <li>
+      Age:
+      8
+      (years)
+    </li>
+    <li>
+      Gender:
+      Female
+    </li>
+    <li>
+      Size:
+      Large
+    </li>
+    <li>
+      Color:
+      Brown/White
+    </li>
+    <li>
+      Housetrained:
+      Yes
+    </li>
+  </ul>
+  <h3>
+    Behavior Restrictions
+  </h3>
+  <ul
+    id="navigation"
+  >
+    <li>
+      No Dogs:
+      No dogs
+    </li>
+    <li>
+      No Cats:
+      Unknown
+    </li>
+    <li>
+      No Kids:
+      Unknown
+    </li>
+  </ul>
+</div>
+`;

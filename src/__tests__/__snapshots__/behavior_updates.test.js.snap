@@ -1,0 +1,454 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render A No Cats Status Update Correctly 1`] = `
+<div
+  className="updateform"
+>
+  <form
+    onSubmit={[Function]}
+  >
+    <p>
+      Name:
+      Mango
+    </p>
+    <p>
+      TAILS ID:
+      395468
+    </p>
+    <p>
+      Species:
+      Dog
+    </p>
+    <p>
+      Select Availability:
+    </p>
+    <div>
+      <select
+        onChange={[Function]}
+        value="Available"
+      >
+        <option
+          value="Available"
+        >
+          Available
+        </option>
+        <option
+          value="Unavailable"
+        >
+          Unavailable
+        </option>
+      </select>
+      <p>
+        Housetrained?:
+      </p>
+      <select
+        onChange={[Function]}
+        value="Yes"
+      >
+        <option
+          value="Partially"
+        >
+          Partially
+        </option>
+        <option
+          value="Yes"
+        >
+          Yes
+        </option>
+        <option
+          value="No"
+        >
+          No
+        </option>
+        <option
+          value="Unknown"
+        >
+          Unknown
+        </option>
+      </select>
+      <p>
+        No Dogs?:
+      </p>
+      <select
+        onChange={[Function]}
+        value="Unknown"
+      >
+        <option
+          value="OK"
+        >
+          OK
+        </option>
+        <option
+          value="No dogs"
+        >
+          No dogs
+        </option>
+        <option
+          value="Unknown"
+        >
+          Unknown
+        </option>
+      </select>
+      <p>
+        No Cats?:
+      </p>
+      <select
+        onChange={[Function]}
+        value="No cats"
+      >
+        <option
+          value="OK"
+        >
+          OK
+        </option>
+        <option
+          value="No cats"
+        >
+          No cats
+        </option>
+        <option
+          value="Unknown"
+        >
+          Unknown
+        </option>
+      </select>
+      <p>
+        No Kids?:
+      </p>
+      <select
+        onChange={[Function]}
+        value="Unknown"
+      >
+        <option
+          value="OK"
+        >
+          OK
+        </option>
+        <option
+          value="No small kids"
+        >
+          No small kids
+        </option>
+        <option
+          value="Unknown"
+        >
+          Unknown
+        </option>
+      </select>
+    </div>
+    <button
+      className="SubmitButton"
+      type="submit"
+    >
+      Submit Changes
+    </button>
+    <p
+      className="success"
+    >
+      
+    </p>
+  </form>
+</div>
+`;
+
+exports[`Render A No Dogs Status Update Correctly 1`] = `
+<div
+  className="updateform"
+>
+  <form
+    onSubmit={[Function]}
+  >
+    <p>
+      Name:
+      Mr. Man
+    </p>
+    <p>
+      TAILS ID:
+      7888890
+    </p>
+    <p>
+      Species:
+      Cat
+    </p>
+    <p>
+      Select Availability:
+    </p>
+    <div>
+      <select
+        onChange={[Function]}
+        value="Available"
+      >
+        <option
+          value="Available"
+        >
+          Available
+        </option>
+        <option
+          value="Unavailable"
+        >
+          Unavailable
+        </option>
+      </select>
+      <p>
+        Housetrained?:
+      </p>
+      <select
+        onChange={[Function]}
+        value="Unknown"
+      >
+        <option
+          value="Partially"
+        >
+          Partially
+        </option>
+        <option
+          value="Yes"
+        >
+          Yes
+        </option>
+        <option
+          value="No"
+        >
+          No
+        </option>
+        <option
+          value="Unknown"
+        >
+          Unknown
+        </option>
+      </select>
+      <p>
+        No Dogs?:
+      </p>
+      <select
+        onChange={[Function]}
+        value="No dogs"
+      >
+        <option
+          value="OK"
+        >
+          OK
+        </option>
+        <option
+          value="No dogs"
+        >
+          No dogs
+        </option>
+        <option
+          value="Unknown"
+        >
+          Unknown
+        </option>
+      </select>
+      <p>
+        No Cats?:
+      </p>
+      <select
+        onChange={[Function]}
+        value="Unknown"
+      >
+        <option
+          value="OK"
+        >
+          OK
+        </option>
+        <option
+          value="No cats"
+        >
+          No cats
+        </option>
+        <option
+          value="Unknown"
+        >
+          Unknown
+        </option>
+      </select>
+      <p>
+        No Kids?:
+      </p>
+      <select
+        onChange={[Function]}
+        value="Unknown"
+      >
+        <option
+          value="OK"
+        >
+          OK
+        </option>
+        <option
+          value="No small kids"
+        >
+          No small kids
+        </option>
+        <option
+          value="Unknown"
+        >
+          Unknown
+        </option>
+      </select>
+    </div>
+    <button
+      className="SubmitButton"
+      type="submit"
+    >
+      Submit Changes
+    </button>
+    <p
+      className="success"
+    >
+      
+    </p>
+  </form>
+</div>
+`;
+
+exports[`Render An Updated No Kids Status Update 1`] = `
+<div
+  className="updateform"
+>
+  <form
+    onSubmit={[Function]}
+  >
+    <p>
+      Name:
+      Mango
+    </p>
+    <p>
+      TAILS ID:
+      395468
+    </p>
+    <p>
+      Species:
+      Dog
+    </p>
+    <p>
+      Select Availability:
+    </p>
+    <div>
+      <select
+        onChange={[Function]}
+        value="Available"
+      >
+        <option
+          value="Available"
+        >
+          Available
+        </option>
+        <option
+          value="Unavailable"
+        >
+          Unavailable
+        </option>
+      </select>
+      <p>
+        Housetrained?:
+      </p>
+      <select
+        onChange={[Function]}
+        value="Yes"
+      >
+        <option
+          value="Partially"
+        >
+          Partially
+        </option>
+        <option
+          value="Yes"
+        >
+          Yes
+        </option>
+        <option
+          value="No"
+        >
+          No
+        </option>
+        <option
+          value="Unknown"
+        >
+          Unknown
+        </option>
+      </select>
+      <p>
+        No Dogs?:
+      </p>
+      <select
+        onChange={[Function]}
+        value="Unknown"
+      >
+        <option
+          value="OK"
+        >
+          OK
+        </option>
+        <option
+          value="No dogs"
+        >
+          No dogs
+        </option>
+        <option
+          value="Unknown"
+        >
+          Unknown
+        </option>
+      </select>
+      <p>
+        No Cats?:
+      </p>
+      <select
+        onChange={[Function]}
+        value="Unknown"
+      >
+        <option
+          value="OK"
+        >
+          OK
+        </option>
+        <option
+          value="No cats"
+        >
+          No cats
+        </option>
+        <option
+          value="Unknown"
+        >
+          Unknown
+        </option>
+      </select>
+      <p>
+        No Kids?:
+      </p>
+      <select
+        onChange={[Function]}
+        value="OK"
+      >
+        <option
+          value="OK"
+        >
+          OK
+        </option>
+        <option
+          value="No small kids"
+        >
+          No small kids
+        </option>
+        <option
+          value="Unknown"
+        >
+          Unknown
+        </option>
+      </select>
+    </div>
+    <button
+      className="SubmitButton"
+      type="submit"
+    >
+      Submit Changes
+    </button>
+    <p
+      className="success"
+    >
+      
+    </p>
+  </form>
+</div>
+`;
